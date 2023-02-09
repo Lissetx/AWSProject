@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  director_get:
+    build: .
+    image: director_get:1.0

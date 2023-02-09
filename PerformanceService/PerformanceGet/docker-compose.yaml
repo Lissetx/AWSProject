@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  performance_get:
+    build: .
+    image: performance_get:1.0

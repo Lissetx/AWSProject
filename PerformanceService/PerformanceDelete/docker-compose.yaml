@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  performance_delete:
+    build: .
+    image: performance_delete:1.0
