@@ -1,5 +1,0 @@
-version: "3.9"
-services:
-  performer_get:
-    build: .
-    image: performer_get:1.0

@@ -1,5 +1,0 @@
-version: "3.9"
-services:
-  character_put:
-    build: .
-    image: character_put:1.0

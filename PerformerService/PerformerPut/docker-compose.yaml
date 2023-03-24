@@ -1,5 +1,0 @@
-version: "3.9"
-services:
-  performer_put:
-    build: .
-    image: performer_put:1.0

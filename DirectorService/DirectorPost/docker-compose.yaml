@@ -1,5 +1,0 @@
-version: "3.9"
-services:
-  director_post:
-    build: .
-    image: director_post:1.0
