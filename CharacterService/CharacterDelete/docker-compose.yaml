@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  character_delete:
+    build: .
+    image: character_delete:1.0

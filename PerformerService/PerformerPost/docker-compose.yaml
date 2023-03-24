@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  performer_post:
+    build: .
+    image: performer_post:1.0

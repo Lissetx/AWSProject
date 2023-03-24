@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  director_delete:
+    build: .
+    image: director_delete:1.0

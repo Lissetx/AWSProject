@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  user_post:
+    build: .
+    image: user_post:1.0

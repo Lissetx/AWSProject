@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  character_get:
+    build: .
+    image: character_get:1.0
